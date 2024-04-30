@@ -3,7 +3,7 @@ import java.util.regex.Pattern;
 
 public enum SysChisl {
     DEC,
-    HEX,
+    HEX,gg
     OCT,
     BIN;
 
